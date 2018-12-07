@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="x">x</string>
+    <string name="z">z</string>
+    <string name="y">y</string>
+    <string name="start">start</string>
+    <string name="coordinates_text">Coordinates_text</string>
+    <string name="up">Up</string>
+    <string name="side">Side</string>
+    <string name="right">Right</string>
+</resources>
